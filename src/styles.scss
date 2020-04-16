@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "sass/main.scss";
+@import "sass/noscript.scss";
+
+
+.profile-pic{
+    border-radius: 300px;
+    width: 200px;
+}
