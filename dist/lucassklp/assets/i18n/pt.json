@@ -1,4 +1,11 @@
 {
     "name": "Lucas Simas",
-    "description": "Full stack engineer"
+    "description": "Full stack engineer",
+    "about-me": "About me",
+    "full-description": {
+        "p1": "Sou uma pessoa que adora novos desafios e estou sempre disposto a aprender coisas novas.",
+        "p2": "Possuo experiência em desenvolvimento de sistemas web, atuando como desenvolvedor FullStack, utilizando algumas linguagens como Java (Play Framework, Spark), Kotlin (Vert.x), C# (.NET Core Web Api) e TypeScript (Angular 2+).",
+        "p3": "Entusiasta em Data Analysis, Machine Learning e IoT. "
+    },
+    "take-a-look-articles": "Dê uma olhada nos meus artigos e projetos"
 }

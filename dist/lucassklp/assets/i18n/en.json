@@ -1,4 +1,25 @@
 {
     "name": "Lucas Simas",
-    "description": "Full stack engineer"
+    "description": "Full stack engineer",
+    "about-me": "Who am I?",
+    "full-description": {
+        "p1": "I am a person who loves new challenges and I am always willing to learn new things.",
+        "p2": "I have experience in developing web systems, working as a FullStack developer, using some languages like Java (Play Framework, Spark), Kotlin (Vert.x), C # (.NET Core Web Api) and TypeScript (Angular 2+).",
+        "p3": "Enthusiastic in Data Analysis, Machine Learning and IoT."
+    },
+    "take-a-look-articles": "Take a look on my articles and projects",
+    "articles-and-projects": {
+        "rx-http": {
+            "tags": "#project",
+            "title": "Rx.Http",
+            "subtitle": "A reactive way to make HTTP Request in .NET Core 🚀",
+            "description": "A lightweight library that is inpired in Angular 2+ Http Client built on top of .NET Http Client that help programmers to make asynchronous http requests."
+        },
+        "reusing-angular": {
+            "tags": "#article",
+            "title": "Reusing Angular Components: The Right Way",
+            "subtitle": "",
+            "description": "Angular allows us to create and reuse components, but usually, we are not doing it right."
+        }
+    }
 }
