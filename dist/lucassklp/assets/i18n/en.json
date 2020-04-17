@@ -19,7 +19,27 @@
             "tags": "#article",
             "title": "Reusing Angular Components: The Right Way",
             "subtitle": "",
-            "description": "Angular allows us to create and reuse components, but usually, we are not doing it right."
+            "description": "Angular allows us to create and reuse components, but usually we are not doing it right."
+        },
+        "default-architecture": {
+            "tags": "#project",
+            "title": "Default Architecture",
+            "subtitle": "A well-designed code template for WebApi and frontend.",
+            "description": "A template project using .NET Core 3, MySQL, Angular 9 and Docker with authentication/authorization feature using JWT"
+        }
+    },
+    "events": {
+        "tdc": {
+            "title": "#TheDevelopersConference",
+            "description": "Photos on event #TheDevelopersConference in Recife - 2019, which I talked about Software Archtecture and Design Patterns/Code Smells in Java",
+            "photos": {
+                "with-giulia": "Me with Giulia Falcão who talked with me about Design Pattern and Code Smells",
+                "with-unicap-friends": "Bruno, Felipe, Mariana, Tarcísio and me - friends of university that were participating of #TheDevelopersConference"
+            }
+        },
+        "movile-hack": {
+            "title": "#MovileHack",
+            "description": "Movile hack was a hackathon provided by Movile company which I was challenged to resolve problems about paying solutions."
         }
     }
 }
